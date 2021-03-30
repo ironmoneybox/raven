@@ -2,11 +2,12 @@
 
 raven is a software for systems software and hardware security integrity and fault tolerance
 
-# License
+## License for software and wordmark
 
 BSD 3-Clause License
 
 Copyright (c) 2021, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers, and all Masscollabs Services Communities
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -34,3 +35,17 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+## Document License
+
+Copyright (c) 2021, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers, and all Masscollabs Services Communities
+
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+A copy of the license is included in the section entitled "GNU
+Free Documentation License".
+
+## Logo License
+
+Artwork is in Public Domain
