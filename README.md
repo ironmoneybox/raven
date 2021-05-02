@@ -1,4 +1,4 @@
-# raven
+OB# raven
 
 raven is a software for systems software and hardware security integrity and fault tolerance
 
@@ -6,7 +6,7 @@ raven is a software for systems software and hardware security integrity and fau
 
 BSD 3-Clause License
 
-Copyright (c) 2021, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers, and all Masscollabs Services Communities
+Copyright (c) 2021, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers, and all Masscollabs Services Communities, masif, and contributors
 
 All rights reserved.
 
@@ -37,7 +37,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Document License
 
-Copyright (c) 2021, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers, and all Masscollabs Services Communities
+Copyright (c) 2021, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers, and all Masscollabs Services Communities, masif, and contributors
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
